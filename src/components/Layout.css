@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+}
+
+
+.Layout {
+	display: flex;
+	flex-direction: row;
+}
+
+.Edit {
+	width: 25%;
+	height: 100vh;
+	overflow-y: scroll; 
+	background-color: #A7FDD3;
+}
+
+.Preview {
+	width: 75%;
+	height: 100vh;
+	overflow-y: scroll; 
+	background-color: #9DE3F7;
+}
